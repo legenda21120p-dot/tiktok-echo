@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TikTok Echo</string>
+    <string name="module_title">TikTok Echo Settings</string>
+    <string name="enable_spoof">Enable Region Spoof</string>
+    <string name="target_region">Target Region</string>
+    <string name="select_region">Select Region</string>
+    <string name="hint_scope">Works on com.zhiliaoapp.musically and com.ss.android.ugc.trill</string>
+    <string name="status_active">Status: Active</string>
+    <string name="status_inactive">Status: Inactive</string>
+    <string name="apply_note">Changes apply after restarting TikTok</string>
+</resources>

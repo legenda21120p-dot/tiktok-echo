@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.TikTokEcho" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/glass_accent_start</item>
+        <item name="colorSecondary">@color/glass_accent_end</item>
+        <item name="android:windowBackground">@drawable/bg_app_gradient</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+    </style>
+</resources>

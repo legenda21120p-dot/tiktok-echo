@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Liquid Glass -->
+    <color name="glass_bg">#22FFFFFF</color>
+    <color name="glass_stroke">#FFFFFFFF</color>
+    <color name="glass_accent_start">#AA7C3FFF</color>
+    <color name="glass_accent_end">#AA00E5FF</color>
+    <color name="bg_gradient_start">#0F1026</color>
+    <color name="bg_gradient_end">#1A1B3A</color>
+</resources>
